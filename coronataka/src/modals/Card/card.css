@@ -1,0 +1,14 @@
+.cardImage
+{
+    height: 450px;
+}
+.card
+{
+    border: 1px #393b44;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #d6e0f0;
+}
+.cardTitle
+{
+    font-size: 30px;
+}

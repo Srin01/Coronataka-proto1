@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Coronataka-proto1/static/css/main.6d91de3b.chunk.css",
+    "main.js": "/Coronataka-proto1/static/js/main.22e9861e.chunk.js",
+    "main.js.map": "/Coronataka-proto1/static/js/main.22e9861e.chunk.js.map",
+    "runtime-main.js": "/Coronataka-proto1/static/js/runtime-main.f7374909.js",
+    "runtime-main.js.map": "/Coronataka-proto1/static/js/runtime-main.f7374909.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Coronataka-proto1/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b0ab680b.chunk.js": "/Coronataka-proto1/static/js/2.b0ab680b.chunk.js",
+    "static/js/2.b0ab680b.chunk.js.map": "/Coronataka-proto1/static/js/2.b0ab680b.chunk.js.map",
+    "index.html": "/Coronataka-proto1/index.html",
+    "precache-manifest.c1716cf87993d66b086c095e28a60b18.js": "/Coronataka-proto1/precache-manifest.c1716cf87993d66b086c095e28a60b18.js",
+    "service-worker.js": "/Coronataka-proto1/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Coronataka-proto1/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.6d91de3b.chunk.css.map": "/Coronataka-proto1/static/css/main.6d91de3b.chunk.css.map",
+    "static/js/2.b0ab680b.chunk.js.LICENSE.txt": "/Coronataka-proto1/static/js/2.b0ab680b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7374909.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b0ab680b.chunk.js",
+    "static/css/main.6d91de3b.chunk.css",
+    "static/js/main.22e9861e.chunk.js"
+  ]
+}
